@@ -316,7 +316,7 @@ With all the information we got before, It's time to crack this volume.
 
 Like we saw, It is a simple 512 bits veracrypt sha512 so we need to use **13721** to crack it and with the **dictionary that we downloaded from kerry**.
 
-![vera](vera.png)
+![vera](vera.PNG)
 
 ```bash
 hashcat -a 0 -w 4 -t 60 -m 13721 <path to john-vol> <path to john.dic>
