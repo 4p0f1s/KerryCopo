@@ -3,7 +3,7 @@
 
 KerryCopo is an easy/medium CTF machine that showcase **wordlists, password cracking, metadata, enumeration, encrypted volumes and steganography**. There are 2 flags, **user_flag.txt** and **root_flag.txt**.
 
-You can [Download It Here]!
+You can get it [here]!
 
 I hope you like it, so if it is the case I would like to know.
 
@@ -11,13 +11,6 @@ I created this machine for a friend for his birthday, and today I would like to 
 
 Below this you can find a WriteUp of the machine.
 
-
----
----
-
-## Docker 
-
-If you want to run it in a docker, you can pull the image from [here]. 
 
 ---
 ---
@@ -432,6 +425,6 @@ And We've finished the machine!
 ![root flag](img/Captura61.PNG)
 
 
-[Download It Here]:https://drive.google.com/drive/folders/182jBoxMrnK9oOcaO0ujsTUct3gayq3N4?usp=share_link
+
 [CyberChef]:https://gchq.github.io/CyberChef/
 [here]:https://hub.docker.com/r/4p0f1s/kerrycopo-ctf
